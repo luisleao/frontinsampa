@@ -1,4 +1,4 @@
-# FrontinSampa 2021
+# FrontinSampa
 
 Em breve você vai poder conferir aqui como foram desenvolvidas todas as interatividades via WhatsApp com a plataforma da Twilio.
 
